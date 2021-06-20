@@ -1,0 +1,559 @@
+local library = loadstring(game:HttpGet("https://remhub.net/upload/ui.lua"))() -- cal the lib
+local a = library:NewWindow("Rare","HUB") -- Change to anything
+local b = a:NewSection("Gui's")
+local d = a:NewSection("FE Scripts")
+local e = a:NewSection("Extras")
+local h = a:NewSection("Settings")
+local f = a:NewSection("Credits")
+
+--Guis--
+
+b:h1("Rare FE Gui's")
+
+b:Button("Astrava Gui [BEST]",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/!%20%5BFE%5D%20Astrava%20Gui%20%5BBEST%5D.txt"))();
+end)
+
+b:Button("OPFinality Gui [BEST]",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/!%20%5BFE%5D%20OPFinality%20Gui%20%5BBEST%5D.txt"))();
+end)
+
+b:Button("Reviz Admin Cmd [BEST]",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/!%20%5BFE%5D%20Reviz%20Admin%20Cmd%20%5BBEST%5D.txt"))();
+end)
+
+b:Button("Animation Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Animation%20Gui.txt"))();
+end)
+
+b:Button("Animations Gui 1",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Animations%20Gui%201.txt"))();
+end)
+
+b:Button("Animations Gui 2",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Animations%20Gui%202.txt"))();
+end)
+
+b:Button("Another R15 Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Another%20R15%20Gui.txt"))();
+end)
+
+b:Button("Arosia Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Arosia%20Gui.txt"))();
+end)
+
+b:Button("Balkus Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Balkus%20Gui.txt"))();
+end)
+
+b:Button("Drop Hats Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Drop%20Hats%20Gui.txt"))();
+end)
+
+b:Button("Energize Animation Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Energize%20Animation%20Gui.txt"))();
+end)
+
+b:Button("Epix Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Epix%20Gui.txt"))();
+end)
+
+b:Button("FE Gui Reborn",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20FE%20Gui%20Reborn.txt"))();
+end)
+
+b:Button("FE Hax V15 Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20FE%20Hax%20V15%20Gui.txt"))();
+end)
+
+b:Button("Filter My Ass Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Filter%20My%20Ass%20Gui.txt"))();
+end)
+
+b:Button("Fuck FE Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Fuck%20FE%20Gui.txt"))();
+end)
+
+b:Button("GlitchMax Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20GlitchMax%20Gui.txt"))();
+end)
+
+b:Button("Grape Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Grape%20Gui.txt"))();
+end)
+
+b:Button("Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Gui.txt"))();
+end)
+
+b:Button("Gui 2",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Gui2.txt"))();
+end)
+
+b:Button("Hax Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Hax%20Gui.txt"))();
+end)
+
+b:Button("HyperTotal Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20HyperTotal%20Gui.txt"))();
+end)
+
+b:Button("I Low Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20I%20Low%20Gui.txt"))();
+end)
+
+b:Button("IHax Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20IHax%20Gui.txt"))();
+end)
+
+b:Button("Insane And Dab Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Insane%20And%20Dab%20Gui.txt"))();
+end)
+
+b:Button("Jailbrika's Broken Scripts Hub [sad]",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Jailbrika's%20Broken%20Scripts%20Hub%20%5Bsad%5D.txt"))();
+end)
+
+b:Button("KGui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20KGui.txt"))();
+end)
+
+b:Button("LegoHax 6.9",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20LegoHax%206.9.txt"))();
+end)
+
+b:Button("Magnet Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Magnet%20Gui.txt"))();
+end)
+
+b:Button("Max Annoy Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Max%20Annoy%20Gui.txt"))();
+end)
+
+b:Button("Newbies Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Newbies%20Gui.txt"))();
+end)
+
+b:Button("NoltX Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20NoltX%20Gui.txt"))();
+end)
+
+b:Button("Novole Animation Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Novole%20Animation%20Gui.txt"))();
+end)
+
+b:Button("OPStatchange Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20OPStatchange%20Gui.txt"))();
+end)
+
+b:Button("R15 Animation Gui by illremember",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20R15%20Animation%20Gui%20by%20illremember.txt"))();
+end)
+
+b:Button("R15 Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20R15%20Gui.txt"))();
+end)
+
+b:Button("Script Hub",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Script%20Hub.txt"))();
+end)
+
+b:Button("Silidius Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Silidius%20Gui.txt"))();
+end)
+
+b:Button("Snowy Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Snowy%20Gui.txt"))();
+end)
+
+b:Button("Trick-Clip Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Trick-Clip%20Gui.txt"))();
+end)
+
+b:Button("Verpsin Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Verpsin%20Gui.txt"))();
+end)
+
+b:Button("Wenght Animation Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20Wenght%20Animation%20Gui.txt"))();
+end)
+
+b:Button("XeX Gui",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/%5BFE%5D%20Guis/%5BFE%5D%20XeX%20Gui.txt"))();
+end)
+
+
+b:h1("More Coming soon")
+b:h1("END")
+
+
+--Scripts
+
+d:h1("Rare FE Scripts")
+
+d:Button("Blackhole",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Blackhole.txt"))();
+end)
+
+d:Button("Blink ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Blink.txt"))();
+end)
+
+d:Button("Block Hats ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Block%20Hats.txt"))();
+end)
+
+d:Button("Block ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Block.txt"))();
+end)
+
+d:Button("Break Character ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Break%20Character.txt"))();
+end)
+
+d:Button("Bring [Need Tools]",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Bring%20%5BNeed%20Tools%5D.txt"))();
+end)
+
+d:Button("Chat Troll ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Chat%20Troll.txt"))();
+end)
+
+d:Button("Check ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Check.txt"))();
+end)
+
+d:Button("Click TP Tool ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Click%20TP%20Tool.txt"))();
+end)
+
+d:Button("Creeper [R15] ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Creeper%20%5BR15%5D.txt"))();
+end)
+
+d:Button("Creeper [R6] ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Creeper%20%5BR6%5D.txt"))();
+end)
+
+d:Button("Double Jump ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Double%20Jump.txt"))();
+end)
+
+d:Button("Drop Hats ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Drop%20Hats.txt"))();
+end)
+
+d:Button("Enable Inventory ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Enable%20Inventory.txt"))();
+end)
+
+d:Button("FE Script [Press Every Key] ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20FE%20Script%20%5BPress%20Every%20Key%5D.txt"))();
+end)
+
+d:Button("Fling ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Fling.txt"))();
+end)
+
+d:Button("Fly [Press E] ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Fly%20%5BPress%20E%5D.txt"))();
+end)
+
+d:Button("Friend Request Spam ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Friend%20Request%20Spam.txt"))();
+end)
+
+d:Button("Get Tool [Use with Save Tool] ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Get%20Tool%20%5BUse%20with%20Save%20Tool%5D.txt"))();
+end)
+
+d:Button("God ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20God.txt"))();
+end)
+
+d:Button("Hatspin ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Hatspin.txt"))();
+end)
+
+d:Button("Headless ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Headless.txt"))();
+end)
+
+d:Button("Invisible ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Invisible.txt"))();
+end)
+
+d:Button("Kill All [Need Sword] ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Kill%20All%20%5BNeed%20Sword%5D.txt"))();
+end)
+
+d:Button("Kill [Need Tools] ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Kill%20%5BNeed%20Tools%5D.txt"))();
+end)
+
+d:Button("Multi Dimensional Character ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Multi%20Dimensional%20Character.txt"))();
+end)
+
+d:Button("Noclip Keybind (e) ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Noclip%20Keybind.txt"))();
+end)
+
+d:Button("Play Animation ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Play%20Animation.txt"))();
+end)
+
+d:Button("Push ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Push.txt"))();
+end)
+
+d:Button("Quick Save Tool ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Quick%20Save%20Tool.txt"))();
+end)
+
+d:Button("R15 Cut ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20R15%20Cut.txt"))();
+end)
+
+d:Button("R15 Root Removal ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20R15%20Root%20Removal.txt"))();
+end)
+
+d:Button("R15 Speed [Bypasses Some Games](Q) ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20R15%20Speed%20%5BBypasses%20Some%20Games%5D.txt"))();
+end)
+
+d:Button("R15 Waist Removal ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20R15%20Waist%20Removal.txt"))();
+end)
+
+d:Button("Random Chat Bot ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Random%20Chat%20Bot.txt"))();
+end)
+
+d:Button("Respawn ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Respawn.txt"))();
+end)
+
+d:Button("Safe FE Kill ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Safe%20FE%20Kill.txt"))();
+end)
+
+d:Button("Save Tool [Use with Get Tool] ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Save%20Tool%20%5BUse%20with%20Get%20Tool%5D.txt"))();
+end)
+
+d:Button("Shutdown ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Shutdown.txt"))();
+end)
+
+d:Button("Spam PM (hilton hotels)",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Spam%20PM.txt"))();
+end)
+
+d:Button("Teleport Others ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Teleport%20Others.txt"))();
+end)
+
+d:Button("oof ",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20oof.txt"))();
+end)
+
+
+
+
+d:h1("More Coming soon")
+d:h1("END")
+
+
+--Extras
+
+e:h1("Bypassed Audios")
+e:h1("[Favorites]")
+
+e:Text("Alert... Online daters detected - 977396990")
+e:Text("Im gay - 692388932")
+e:Text("Good Shit - 260845388")
+e:Text("Girl Moan - 529108213")
+e:Text("Girl Uhh - 187379457")
+e:Text("buttsex - 933059220")
+e:Text("Girl Sucking - 811703847")
+e:Text("Nepalm Sticks To Kids - 947742704")
+e:Text("wii moan -1122592909 ")
+e:Text("Hitler is PewDiePie - 1060962895")
+e:Text("nigga tree - 1108373255")
+e:Text("I'm begin raped - 880374898")
+e:Text("Black Y'all - 731673813")
+e:Text("Aye Mami, You Sexy - 357580144")
+e:Text("Moan Remix - 1090275897")
+e:Text("Another Masturbate - 786129624")
+e:Text("Moaning - 889417606")
+e:Text("Oh Boy EAR RAPE - 482642374")
+
+e:h1("Bypassed Audios ")
+
+e:Text("1255453598 - iloveitwhentheyrun")
+e:Text("1155113405 - Jane Fonda")
+
+e:Text("1199689607 - 1 Punch")
+e:Text("1192666262 - 2cd Hand Alt")
+e:Text("1200755749 - 38 Baby")
+e:Text("1192707613 - $uicideboy$")
+e:Text("1192347457 - Bake Sale")
+e:Text("1229805224 - Better Off (Dyin)")
+e:Text("1230739539 - BITCH")
+e:Text("1230733935 - Bitches")
+e:Text("1213861153 - Blouse & Skirt")
+e:Text("1213854079 - Blunt Blowin Tpos 53")
+e:Text("1192150245 - Bo Burnham")
+e:Text("1230767563 - Boss Ass Bitch")
+e:Text("1213787697 - Christmas XXX Tpos 28")
+e:Text("1229749874 - Clinical Sodomy Tpos 65")
+e:Text("1230746453 - Come Gangsta")
+e:Text("1184454816 - Dont Lack")
+e:Text("1209973729 - Dont Worry")
+e:Text("192560238 - First Day Out")
+e:Text("182120322 - Get Shwifty")
+e:Text("1192207543 - Ghostemane")
+e:Text("1213725335 - Hate Bein Sober")
+e:Text("1229638564 - Hellsing Blow")
+e:Text("548067976 - Hit Em With it")
+e:Text("1181731188 - Hittin Licks")
+e:Text("1230735857 - I Stab People")
+e:Text("1230749153 - I Want my Shit")
+e:Text("199035864 - James Bong")
+e:Text("1213850498 - Kamiyada Mix")
+e:Text("1191361129 - Lonnie K")
+e:Text("1181515716 - Magaziene")
+e:Text("1213835787 - Marijuana")
+e:Text("1254634665 - Mickey Avalon Mix")
+e:Text("1188349741 - Nick Girls tpos 195 Hood Rich")
+e:Text("1220599308 - No Witnesses")
+e:Text("1230733136 - Nobody Cares Remix")
+e:Text("1230758695 - Oxy Cotton")
+e:Text("1180818670 - Pussy Pussy Marijuana")
+e:Text("1196240118 - Que Mix 0.28")
+e:Text("1213753916 - Reefer Party")
+e:Text("1202016544 - Runnin")
+e:Text("1230760684 - Sold my Soul to Satan Waiting in Line a the Mall")
+e:Text("1213859393 - South Paw")
+e:Text("1213815399 - Suicide Mix 53KYS 165 Life Goes On")
+e:Text("1194334210 - Suicide Pit")
+e:Text("1176607367 - Thot Detected")
+e:Text("1229745333 - Walk Away as the Door Slams")
+e:Text("1228735390 - Wardog Anthem")
+e:Text("1210219141 - What I am")
+e:Text("1188101178 - Wing Ridden Angel")
+e:Text("1213827037 - Wizmane tpos 220")
+
+e:h1("Other Bypasses")
+
+e:Text("321165242 - 잊지마")
+e:Text("1128103937 - ???")
+e:Text("1156381785 - ???")
+e:Text("1176364824 - ???")
+e:Text("598598657 - A Message to Tina Beltcher")
+e:Text("1244966261 - Addvit")
+e:Text("293216154 - Bang")
+e:Text("545299474 - Bare Physical")
+e:Text("598616467 - Bass")
+e:Text("628869469 - Bass")
+e:Text("624604347 - Bass Bypass")
+e:Text("641153309 - Blasted")
+e:Text("638024642 - Cannible")
+e:Text("345625806 - Chiraq")
+e:Text("458571227 - Curb")
+e:Text("1213370470 - Dear White People")
+e:Text("911320107 - Ding Dong Song")
+e:Text("1081299902 - Dwayne Johnson - You're Welcome")
+e:Text("1189192813 - Farted on my Dick")
+e:Text("733379470 - Finessed Your Bitch")
+e:Text("1128137172 - Freddy vs Jason")
+e:Text("521057686 - Free Glocks")
+e:Text("1203675829 - Fried Noodles")
+e:Text("1119464249 - Fuck the Police")
+e:Text("991983369 - Fucked Up")
+e:Text("1161889790 - Get Hyper")
+e:Text("1144937747 - Hit Em Up")
+e:Text("203904929 - Horse Song")
+e:Text("1211918439 - Hot Nigga")
+e:Text("492196535 - Ice Wing Angel")
+e:Text("1087691879 - Im Gay")
+e:Text("1213403194 - Im Illuminati")
+e:Text("1200724555 - Im Osama")
+e:Text("1213703248 - Kill Yourself")
+e:Text("1168825647 - Killed A Wolf")
+e:Text("593481741 - Last Day Here")
+e:Text("1213331917 - Life is Like a Nigger")
+e:Text("1167797818 - Live Off A Lick")
+e:Text("657377732 - Look at me")
+e:Text("319252198 - Lord Give me a Sign")
+e:Text("1213858588 - Make It")
+e:Text("465532407 - Money Longer")
+e:Text("1213267339 - My Nigga")
+e:Text("1124481064 - No Options")
+e:Text("1117315054 - Notorious KKK")
+e:Text("1151911560 - One Time")
+e:Text("1175614571 - Opana")
+e:Text("1210200015 - Porn Title Rap")
+e:Text("1189212572 - Random")
+e:Text("182812160 - Rap God")
+e:Text("552216341 - Recognize")
+e:Text("1211946646 - Reposted in the Wrong Neighborhood")
+e:Text("1254461823 - Rick James")
+e:Text("647784316 - Run Up on me")
+e:Text("1230885682 - Saadam Hussan")
+e:Text("1029260333 - School Shooting")
+e:Text("1190314311 - Shut the Fuck Up")
+e:Text("1185239934 - Sippin Tea in yo Hood")
+e:Text("681023755 - Skin")
+e:Text("635202370 - So Vitoria")
+e:Text("635539828 - Starboy")
+e:Text("1189246710 - Swat City")
+e:Text("1187987649 - Take a Step Back")
+e:Text("920335504 - Teeth")
+e:Text("644756166 - Tentacion")
+e:Text("649694897 - Tentacion")
+e:Text("560953228 - Ugly")
+e:Text("575546079 - Ultimate")
+e:Text("1163648200 - Uncle Fucker")
+e:Text("486269696 - Vice City")
+e:Text("1203086084 - Wish I was a Nigger")
+e:Text("1188056647 - Woody Got Wood")
+e:Text("799335769 - WorldWide")
+e:Text("476126299 - Yellow This")
+e:Text("995763494 - You Better Run")
+e:Text("1129915063 - Zotiyac")
+
+
+
+
+e:h1("lostwaves Audios")
+
+e:Text("1203223426 - Ass & Titties")
+e:Text("1203675829 - Fried Noodles")
+e:Text("1203328588 - Frosty the Pervert")
+e:Text("1203724293 - Pull Up")
+e:Text("1202958486 - White is Right")
+e:Text("1203086084 - X Gon Give it to Ya")
+
+e:h1("More Coming soon")
+e:h1("END")
+
+--settings
+
+h:Bind("Toggle GUI",Enum.KeyCode.P,true,function(a)
+   library:SetBind(a)
+   print("Set".. a ..  " as a gui keybind")
+end)
+
+--Credits
+
+f:h1("Credits")
+f:Text("Made by Sinz#5494")
+f:Text("UI by RMM")
+f:Text("Scripts found by Sinz#5494")
+f:Text("https://discord.gg/JsCvTE3Pxk")
+f:Text("https://github.com/KarumuScrpts/RareHub")
+
+
