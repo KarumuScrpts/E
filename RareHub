@@ -2,8 +2,8 @@ local library = loadstring(game:HttpGet("https://remhub.net/upload/ui.lua"))() -
 local a = library:NewWindow("Rare","HUB") -- Change to anything
 local b = a:NewSection("Gui's")
 local d = a:NewSection("FE Scripts")
+local g = a:NewSection("Scripts")
 local e = a:NewSection("Extras")
-local h = a:NewSection("Settings")
 local f = a:NewSection("Credits")
 
 --Guis--
@@ -211,152 +211,184 @@ d:Button("Break Character ",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Break%20Character.txt"))();
 end)
 
-d:Button("Bring [Need Tools]",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Bring%20%5BNeed%20Tools%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Chat Troll ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Chat%20Troll.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Check ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Check.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Click TP Tool ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Click%20TP%20Tool.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Creeper [R15] ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Creeper%20%5BR15%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Creeper [R6] ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Creeper%20%5BR6%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Double Jump ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Double%20Jump.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Drop Hats ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Drop%20Hats.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Enable Inventory ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Enable%20Inventory.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("FE Script [Press Every Key] ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20FE%20Script%20%5BPress%20Every%20Key%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Fling ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Fling.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Fly [Press E] ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Fly%20%5BPress%20E%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Friend Request Spam ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Friend%20Request%20Spam.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Get Tool [Use with Save Tool] ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Get%20Tool%20%5BUse%20with%20Save%20Tool%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("God ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20God.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Hatspin ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Hatspin.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Headless ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Headless.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Invisible ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Invisible.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Kill All [Need Sword] ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Kill%20All%20%5BNeed%20Sword%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Kill [Need Tools] ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Kill%20%5BNeed%20Tools%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Multi Dimensional Character ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Multi%20Dimensional%20Character.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Noclip Keybind (e) ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Noclip%20Keybind.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Play Animation ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Play%20Animation.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Push ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Push.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Quick Save Tool ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Quick%20Save%20Tool.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("R15 Cut ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20R15%20Cut.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("R15 Root Removal ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20R15%20Root%20Removal.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("R15 Speed [Bypasses Some Games](Q) ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20R15%20Speed%20%5BBypasses%20Some%20Games%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("R15 Waist Removal ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20R15%20Waist%20Removal.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Random Chat Bot ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Random%20Chat%20Bot.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Respawn ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Respawn.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Safe FE Kill ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Safe%20FE%20Kill.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Save Tool [Use with Get Tool] ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Save%20Tool%20%5BUse%20with%20Get%20Tool%5D.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Shutdown ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Shutdown.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Spam PM (hilton hotels)",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Spam%20PM.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("Teleport Others ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20Teleport%20Others.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
-d:Button("oof ",function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KarumuScrpts/RareHub/main/Scripts/%5BFE%5D%20oof.txt"))();
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+d:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
 end)
 
 
@@ -366,6 +398,16 @@ d:h1("More Coming soon")
 d:h1("END")
 
 
+
+g:h1("Rare Non-Fe Scripts")
+
+g:Button(" ",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/FDwrAGSE"))();
+end)
+
+
+g:h1("More Coming soon")
+g:h1("END")
 --Extras
 
 e:h1("Bypassed Audios")
@@ -539,13 +581,6 @@ e:Text("1203086084 - X Gon Give it to Ya")
 
 e:h1("More Coming soon")
 e:h1("END")
-
---settings
-
-h:Bind("Toggle GUI",Enum.KeyCode.P,true,function(a)
-   library:SetBind(a)
-   print("Set".. a ..  " as a gui keybind")
-end)
 
 --Credits
 
